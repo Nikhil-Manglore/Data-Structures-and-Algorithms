@@ -43,27 +43,27 @@ public class SortingAlgorithms {
 
     // Heap Sort: O(nlog(n))
     public void heapSort(int[] inputArray) {
-
+        // TBF
     }
 
     // Helper Method for Heap Sort
     private void heapify() {
-
+        // TBF
     }
 
     // Merge Sort: O(nlog(n))
     public void mergeSort(int[] inputArray) {
-        int mid = inputArray.length/2;
+        // TBF
 
     }
 
     // Quick Sort: O(n^2)
     public void quickSort() {
-
+        // TBF
     }
 
     public void shellSort(int[] inputArray) {
-
+        // TBF
     }
 
     // Helper Method to Swap Values in Array
