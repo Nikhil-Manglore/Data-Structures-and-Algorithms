@@ -5,7 +5,7 @@ import java.util.Arrays;
 // Insert operation: O(n)
 // Swim up and sink down: O(log(n)
 // Get min value: O(1)
-public class BinaryHeap {
+public class BinaryMinHeap {
     int capacity = 10;
     int numOfItems = 0;
     int[] minHeap = new int[capacity];
