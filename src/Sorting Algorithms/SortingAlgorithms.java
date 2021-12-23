@@ -73,14 +73,5 @@ public class SortingAlgorithms {
         inputArray[y] = temp;
     }
 
-    // Main
-    public static void main(String[] args) {
-        int[] input = new int[]{9,8,7,6,5,4,3,2,1};
-        SortingAlgorithms sortingAlgorithms = new SortingAlgorithms();
-        sortingAlgorithms.bubbleSort(input);
-
-        for(int i = 0; i < input.length; i++) {
-            System.out.print(input[i] + " ");
-        }
-    }
+  
 }
