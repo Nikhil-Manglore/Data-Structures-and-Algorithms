@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-// Implementation for a Min Heap
+// Implementation for a Min Binary Heap (Min Priority Queue)
 // Time complexity: O(nlog(n))
 // Insert operation: O(n)
 // Swim up and sink down: O(log(n)
