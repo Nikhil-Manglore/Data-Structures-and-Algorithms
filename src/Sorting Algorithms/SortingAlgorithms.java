@@ -1,7 +1,6 @@
 
 public class SortingAlgorithms {
 
-
     // Insertion Sort: O(n^2)
     public void insertionSort(int[] inputArray) {
         for (int i = 0; i < inputArray.length; i++) {
