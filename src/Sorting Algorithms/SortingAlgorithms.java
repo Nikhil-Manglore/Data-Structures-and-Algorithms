@@ -40,7 +40,7 @@ public class SortingAlgorithms {
         }
     }
 
-    // Heap Sort: O(nlog(n))
+    // Heap Sort: O(nlogn)
     public void heapSort(int[] inputArray) {
         // TBF
     }
