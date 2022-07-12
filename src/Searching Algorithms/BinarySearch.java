@@ -1,6 +1,6 @@
 public class BinarySearch {
 
-    // Divide and Conquer Algorithm
+    // Binary Search is a Divide and Conquer Algorithm 
     // Time Complexity: O(nlogn); Space Complexity: O(1);
 
     private int search(int[] nums, int target) {
